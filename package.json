@@ -1,0 +1,19 @@
+{
+  "name": "hostpital-ws",
+  "version": "1.0.0",
+  "description": "Web Services for healtcares",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Gabriele Capodicasa",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "nodemon": "^2.0.3",
+    "prettyjson": "^1.2.1",
+    "prettyprint": "^1.1.2",
+    "validator": "^13.0.0",
+    "yargs": "^15.3.1"
+  }
+}
